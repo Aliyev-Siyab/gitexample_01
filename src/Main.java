@@ -7,6 +7,8 @@ public class Main {
         System.out.println(x + y);
         System.out.println(x - y);
         System.out.println(x * y);
+        Monkey monkey = new Monkey("Johny");
+        System.out.println(monkey);
 
     }
 }
