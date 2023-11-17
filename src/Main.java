@@ -5,6 +5,7 @@ public class Main {
         Orange orange = new Orange();
         int x = 10;
         System.out.println(x + y);
+        System.out.println(x - y);
 
     }
 }
